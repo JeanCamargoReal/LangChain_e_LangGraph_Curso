@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: react_agent
 Version: 0.0.1
 Summary: react_agent
-Author: Luiz Otávio
+Author: Jean Camargo
 License-Expression: MIT
 Project-URL: Homepage, https://www.otaviomiranda.com.br/
 Requires-Python: >=3.13
@@ -59,7 +59,7 @@ mostrado nas aulas.
 
 - [001 — LangChain vs LangGraph](./docs/001-langchain-vs-langgraph.md)
 - [002 — Chat simples com LangChain](./docs/002-chat-simples-langchain.md)
-- [003 — Introdução ao LangGraph](./docs/003-introducao-ao-langgraph.md)
+- [003 — Graph](./docs/003-introducao-ao-langgraph.md)
 - [004 — LangGraph com LLM](./docs/004-langgraph-com-llm.md)
 - [005 — LangChain com LLM e Tools](./docs/005-llm-com-tools-langchain.md)
 - [006 — LangStudio](./docs/006-langgraph-studio.md)
